@@ -1,0 +1,4 @@
+include ':kotlin-log-android'
+include ':kotlin-log-android-sample'
+
+rootProject.name = "kotlin-log-android"
